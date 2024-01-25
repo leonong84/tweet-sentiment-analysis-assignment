@@ -1,4 +1,4 @@
-# tweet-sentiment-analysis-assignment
+# Tweet Sentiment Analysis 
 
 This project focuses on analyzing the sentiment of short text snippets, akin to tweets, to determine whether the sentiment is positive, neutral, or negative. The core of this analysis lies in leveraging the power of Transformer models, specifically using a variant of RoBERTa that has been fine-tuned on a dataset consisting of tweets.
 
